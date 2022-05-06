@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neilgomez
-- 👀 I’m interested Robots, Aliens, Technology and Humans
+- 👀 I’m interested in Robots, Aliens, Technology and Humans
 - 🌱 I’m currently learning Django web framework plus Python and SQL
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: twitter.com/neiladriangomez
